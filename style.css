@@ -1,0 +1,27 @@
+.menu {
+    display: flex;
+    font-size: 125%;
+    font-weight: bold;
+    word-spacing: 10px;
+
+    padding: 1rem;
+    border: 3px solid black;
+    border-radius: 1rem;
+
+    background-color: rgba(243, 251, 254, 255);
+
+    justify-content: space-between;
+    justify-items: center;
+    align-items: center;
+
+
+    margin-left: 20rem;
+    margin-right: 20rem;
+
+}
+
+
+.box {
+    display: flex;
+    justify-content: center;
+}
